@@ -13,3 +13,7 @@ Download this repository as a compressed file (`.zip`) and follow the instruscti
 - All commented text starts with a `%` sign. If you want to actually type a `%` sign to text, type `\%`. Files have some helpful comments, be sure to read them.
 - You don't need to escape special caracters in this project (line in `g\'enero`), there is a package that will take care of that for you. Go ahead and type or paste text as is (`género`).
 - Use `\\` to break a line (or insert empty lines).
+
+## Help
+- Perhaps this video may help you getting started: [https://youtu.be/hAfYp2psam4](https://youtu.be/hAfYp2psam4).
+- If you have questions, please feel free to message me at `machadodj [at] alumni [dot] usp [dot] br`.
